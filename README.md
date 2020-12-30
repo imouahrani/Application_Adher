@@ -9,7 +9,8 @@ demande des services de ses clients, la société ADHER transmet la demande à s
 adhérents, ces derniers répondent à cette demande et enfin la société ADHER répond
 à ses clients. 
 
-Technologies utilisées : HTML5/CSS3, javaScript, PHP.
+
+__Technologies utilisées : HTML5/CSS3, javaScript, PHP.__
 
 # Overview
 
