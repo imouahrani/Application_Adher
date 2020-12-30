@@ -1,0 +1,30 @@
+ @media screen and (min-width:680px){
+    body{background-color: rgb(240,240,240)}
+    	div{margin-left: auto;margin-right: auto;}
+		div.contaa{margin: 8vh 15vw;border-radius: 10px;}
+        .bt{ width: 20vw;font-size: 1.4em}
+        h6{margin-left: 2vw}
+       
+        .search{display: flex;flex-direction:column;justify-content: space-around;}
+        .bn{margin-top: 4vh;}    
+  .gh{background-color:white;padding: 25px;margin-left: 45px;margin-right: 45px;margin-top: 50px;margin-bottom: 50px}
+        .search{display: flex;flex-direction:column;justify-content: space-around;}
+        .ss{width: 50%;border-radius: 10px;margin-left: 15vw;}
+       .s{width: 80%;border-radius: 12px;margin-left: 5.5vw;padding: 10px}
+     div.corp{border-radius: 20px;padding-left: 5vw;margin: 15vh 7vw;margin-left: 10vw;padding: 15px;padding-left: 60px;width:                         80%;background-color: white;font-size: 1.2em}
+      div.corps{border-radius: 20px;padding-left: 5vw;margin: 10vh 5vw;margin-left: 10vw;padding: 15px;padding-left: 60px;width:                         80%;background-color: white;font-size: 1.2em;height: 50vh}
+    
+        
+        
+         .nav-wrapper{width: 50%;border-radius: 10px;margin-left: 25vw; }
+         .bttn{margin: 5vh 5vw;margin-left: 5vw;width: 80%;text-align: center;font-size: 1.2em}
+
+        #submit1{margin-left: 23vw;width: 15vw}}
+
+        @media screen and (max-width:680px){  
+            div.corp{margin: 2vh 3vw}
+             div.contaa{width: 100%;margin: 0 0;margin-top: 3vh; }  
+            .bt{width: 70%}
+            .gh{margin: 4vh 2vw;padding: 0;}
+            div.corps{margin: 2vh 3vw}
+           }
