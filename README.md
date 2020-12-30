@@ -11,5 +11,22 @@ adhérents, ces derniers répondent à cette demande et enfin la société ADHER
 
 Technologies utilisées : HTML5/CSS3, javaScript, PHP.
 
+# Quelques captures
+
+## Accueil
+![Accueil](Accueil.PNG)
+## Gestion des contrats
+![gestion_des_contrats](gestion_des_contrats.PNG)
+## Informations adherent
+![informations_adherent](informations_adherent.PNG)
+## Informations client
+![informations_client](informations_client.PNG)
+## Interface delapplication.PNG
+![interface_delapplication](interface_delapplication.PNG)
+## Liste intervenants
+![liste_intervenants](liste_intervenants.PNG)
+## Modifier contrat adherent
+![modifier_contrat_adherent](modifier_contrat_adherent.PNG)
+
 
 _Réalisé en Janvier 2018_
