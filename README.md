@@ -12,4 +12,4 @@ adhérents, ces derniers répondent à cette demande et enfin la société ADHER
 Technologies utilisées : HTML5/CSS3, javaScript, PHP.
 
 
-_Réalisé en Decembre 2018_
+_Réalisé en Janvier 2018_
